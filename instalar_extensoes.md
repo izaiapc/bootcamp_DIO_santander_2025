@@ -1,7 +1,4 @@
-Excelente foco! Nada de firulas visuais — você quer **ferramentas funcionais**, que melhorem **fluidez, produtividade e clareza** sem tomar o controle da sua lógica ou “codar por você”.
-
-Aqui vai uma lista **essencial de extensões úteis** (não invasivas), com foco em **produtividade real** no VS Code:
-
+## Extensões para instalar no VSCode
 ---
 
 ### 🔹 1. **Python** (Microsoft)
